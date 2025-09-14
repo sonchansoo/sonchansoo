@@ -1,4 +1,4 @@
-## This GitHub is for physical AI research, mainly focusing on reinforcement learning, computer vision, drones, robotic Manipulator, and quadruped robot.
+## This GitHub is for physical AI research, mainly focusing on reinforcement learning, computer vision, drones, robotic Manipulator and quadruped robot.
 
 
 <!--
