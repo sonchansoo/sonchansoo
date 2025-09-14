@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 This GitHub is for physical AI research, mainly focusing on reinforcement learning, computer vision, drones, robotic Manipulator, and quadruped robot.
+
 
 <!--
 **sonchansoo/sonchansoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
